@@ -1,0 +1,18 @@
+FROM python:3.10-slim
+
+WORKDIR /app
+
+# Copy dependencies
+COPY requirements.txt .
+
+# Install dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy application source
+COPY src/ .
+
+# Environment setup
+ENV PYTHONUNBUFFERED=1
+
+# Default command (boleh di-override oleh docker-compose)
+CMD ["python", "main.py"]
