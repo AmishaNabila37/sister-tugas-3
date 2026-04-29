@@ -1,15 +1,14 @@
-**NAMA: ARDI DWI SAPUTRA**
+**Nama: Amisha Nabila Wiguna**
 
-**NIM: 11221026**
+**NIM: 11231008**
 
 
 
 **LINK VIDEO DEMONSTRASI TUGAS 2:**
-(videonya masih diedit karena banyak error)
 
 
 
-**LINK DOCS LAPORAN TUGAS 2:**
 
-[**https://docs.google.com/document/d/1TTFEjkKRMgpFkwlFLmUbPCx2bRJJv\_TW/edit?usp=sharing\&ouid=105433678054418651836\&rtpof=true\&sd=true**](https://docs.google.com/document/d/1TTFEjkKRMgpFkwlFLmUbPCx2bRJJv_TW/edit?usp=sharing&ouid=105433678054418651836&rtpof=true&sd=true)
+**LINK PDF LAPORAN TUGAS 2:**
+https://drive.google.com/file/d/1vX1u8i89wmz7nte4MWc3bLwCl88OydUe/view?usp=drive_link
 
