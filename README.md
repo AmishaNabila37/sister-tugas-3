@@ -230,3 +230,6 @@ Dengan demikian, sistem berhasil menunjukkan:
 * Konsistensi data antar node
 * Toleransi terhadap kegagalan node
 * Mekanisme sinkronisasi yang stabil di lingkungan terdistribusi
+
+  [Link Youtube](https://youtu.be/R5SHHU4Vsbo?si=AxSaV4R0jMP2FdWh)
+
